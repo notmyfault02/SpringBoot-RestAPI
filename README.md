@@ -9,4 +9,4 @@
 
 ## 개발 일지
 
-* Develop History folder에 개발하며 배운 내용들을 날짜별로 작성
+* [Develop History](https://github.com/notmyfault02/Springboot-RestAPI/tree/master/Develop History) folder에 개발하며 배운 내용들을 날짜별로 작성
